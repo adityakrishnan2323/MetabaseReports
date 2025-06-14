@@ -7,10 +7,10 @@ CORS(app)
 
 # MySQL connection using sqlalchemy
 db_config = {
-    'host': 'dbd.magilhub.com',
-    'user': 'mhdsvc',
-    'password': 'H65nGYc7',
-    'database': 'mhd'
+    'host': 'dbname',
+    'user': '*****',
+    'password': '*****',
+    'database': '*****'
 }
 engine = create_engine(f"mysql+mysqlconnector://{db_config['user']}:{db_config['password']}@{db_config['host']}/{db_config['database']}")
 
