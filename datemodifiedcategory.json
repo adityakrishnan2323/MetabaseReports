@@ -1,0 +1,963 @@
+{
+  "Category Table": [
+      {
+          "Category Name": "Total",
+          "Item Name": "Total",
+          "Gross Sales": 134438.84,
+          "Sold": 6163.0,
+          "%Net Sales": "100.00%"
+      },
+      {
+          "Category Name": "Thali's",
+          "Item Name": "South Indian Thali",
+          "Gross Sales": 51.0,
+          "Sold": 3.0,
+          "%Net Sales": "0.04%"
+      },
+      {
+          "Category Name": "Thali's",
+          "Item Name": "Category Total",
+          "Gross Sales": 51.0,
+          "Sold": 3.0,
+          "%Net Sales": "0.04%"
+      },
+      {
+          "Category Name": "Sweets",
+          "Item Name": "Category Total",
+          "Gross Sales": 85.79,
+          "Sold": 9.0,
+          "%Net Sales": "0.06%"
+      },
+      {
+          "Category Name": "Sweets",
+          "Item Name": "Badam Katli",
+          "Gross Sales": 17.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Sweets",
+          "Item Name": "Bombay Halwa",
+          "Gross Sales": 16.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Sweets",
+          "Item Name": "Assorted Sweets 1 lb",
+          "Gross Sales": 15.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Sweets",
+          "Item Name": "Adhirasam",
+          "Gross Sales": 9.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Sweets",
+          "Item Name": "Badusha",
+          "Gross Sales": 9.37,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Sweets",
+          "Item Name": "Kaju Katli",
+          "Gross Sales": 8.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Sweets",
+          "Item Name": "Soan Papadi",
+          "Gross Sales": 6.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "South Indian Favorites",
+          "Item Name": "Category Total",
+          "Gross Sales": 1764.84,
+          "Sold": 166.0,
+          "%Net Sales": "1.31%"
+      },
+      {
+          "Category Name": "South Indian Favorites",
+          "Item Name": "Parotta Kurma",
+          "Gross Sales": 524.58,
+          "Sold": 42.0,
+          "%Net Sales": "0.39%"
+      },
+      {
+          "Category Name": "South Indian Favorites",
+          "Item Name": "Chapati Kurma",
+          "Gross Sales": 450.59,
+          "Sold": 41.0,
+          "%Net Sales": "0.34%"
+      },
+      {
+          "Category Name": "South Indian Favorites",
+          "Item Name": "Ghee Pongal",
+          "Gross Sales": 287.68,
+          "Sold": 32.0,
+          "%Net Sales": "0.21%"
+      },
+      {
+          "Category Name": "South Indian Favorites",
+          "Item Name": "Poori Masala",
+          "Gross Sales": 264.27,
+          "Sold": 23.0,
+          "%Net Sales": "0.20%"
+      },
+      {
+          "Category Name": "South Indian Favorites",
+          "Item Name": "Rava Kichadi",
+          "Gross Sales": 237.72,
+          "Sold": 28.0,
+          "%Net Sales": "0.18%"
+      },
+      {
+          "Category Name": "South Indian Curries",
+          "Item Name": "Category Total",
+          "Gross Sales": 181.3,
+          "Sold": 14.0,
+          "%Net Sales": "0.13%"
+      },
+      {
+          "Category Name": "South Indian Curries",
+          "Item Name": "Koon Curry",
+          "Gross Sales": 103.6,
+          "Sold": 8.0,
+          "%Net Sales": "0.08%"
+      },
+      {
+          "Category Name": "South Indian Curries",
+          "Item Name": "Paal Katti Kurma",
+          "Gross Sales": 64.75,
+          "Sold": 5.0,
+          "%Net Sales": "0.05%"
+      },
+      {
+          "Category Name": "South Indian Curries",
+          "Item Name": "Paruppu Urundai",
+          "Gross Sales": 12.95,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Soups",
+          "Item Name": "Category Total",
+          "Gross Sales": 2519.3,
+          "Sold": 370.0,
+          "%Net Sales": "1.87%"
+      },
+      {
+          "Category Name": "Soups",
+          "Item Name": "Cream Of Vegetable Soup",
+          "Gross Sales": 1391.01,
+          "Sold": 199.0,
+          "%Net Sales": "1.03%"
+      },
+      {
+          "Category Name": "Soups",
+          "Item Name": "Veg Clear Soup",
+          "Gross Sales": 401.33,
+          "Sold": 67.0,
+          "%Net Sales": "0.30%"
+      },
+      {
+          "Category Name": "Soups",
+          "Item Name": "Rasam",
+          "Gross Sales": 391.44,
+          "Sold": 56.0,
+          "%Net Sales": "0.29%"
+      },
+      {
+          "Category Name": "Soups",
+          "Item Name": "Sweet Corn Veg. Soup",
+          "Gross Sales": 237.66,
+          "Sold": 34.0,
+          "%Net Sales": "0.18%"
+      },
+      {
+          "Category Name": "Soups",
+          "Item Name": "Hot & Sour Veg. Soup",
+          "Gross Sales": 97.86,
+          "Sold": 14.0,
+          "%Net Sales": "0.07%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Category Total",
+          "Gross Sales": 237.97,
+          "Sold": 53.0,
+          "%Net Sales": "0.18%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Ellu Murukku",
+          "Gross Sales": 44.9,
+          "Sold": 10.0,
+          "%Net Sales": "0.03%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Butter Murukku",
+          "Gross Sales": 40.41,
+          "Sold": 9.0,
+          "%Net Sales": "0.03%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Mini Thenkuzhal",
+          "Gross Sales": 35.92,
+          "Sold": 8.0,
+          "%Net Sales": "0.03%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "RJM Kara Sev",
+          "Gross Sales": 31.43,
+          "Sold": 7.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Omapodi",
+          "Gross Sales": 22.45,
+          "Sold": 5.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Andhra Muruku",
+          "Gross Sales": 17.96,
+          "Sold": 4.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Pepper Sev",
+          "Gross Sales": 13.47,
+          "Sold": 3.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Mullu Murukku",
+          "Gross Sales": 8.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Pepper Thattai",
+          "Gross Sales": 8.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Navadhanya Mixture",
+          "Gross Sales": 4.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Ribbon Pakoda",
+          "Gross Sales": 4.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Thattai",
+          "Gross Sales": 4.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Rajapalayam Thattai",
+          "Gross Sales": 0.0,
+          "Sold": 0.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Savories",
+          "Item Name": "Dal Mixture",
+          "Gross Sales": 0.0,
+          "Sold": 0.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Rice & Noodles",
+          "Item Name": "Category Total",
+          "Gross Sales": 27.74,
+          "Sold": 2.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Rice & Noodles",
+          "Item Name": "Special Jack Fruit Biriyani - Saturday Lunch only",
+          "Gross Sales": 16.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Rice & Noodles",
+          "Item Name": "Variety Rice - Lemon Rice",
+          "Gross Sales": 10.75,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Impossible",
+          "Item Name": "Category Total",
+          "Gross Sales": 122231.28,
+          "Sold": 4715.0,
+          "%Net Sales": "90.92%"
+      },
+      {
+          "Category Name": "Impossible",
+          "Item Name": "Impossible Vegetable Laba",
+          "Gross Sales": 57532.02,
+          "Sold": 3598.0,
+          "%Net Sales": "42.79%"
+      },
+      {
+          "Category Name": "Impossible",
+          "Item Name": "Impossible Schezwan Fried Rice",
+          "Gross Sales": 49600.0,
+          "Sold": 248.0,
+          "%Net Sales": "36.89%"
+      },
+      {
+          "Category Name": "Impossible",
+          "Item Name": "Impossible Vegetable Omelette",
+          "Gross Sales": 6480.0,
+          "Sold": 162.0,
+          "%Net Sales": "4.82%"
+      },
+      {
+          "Category Name": "Impossible",
+          "Item Name": "Impossible Veg Fried Rice",
+          "Gross Sales": 3830.0,
+          "Sold": 383.0,
+          "%Net Sales": "2.85%"
+      },
+      {
+          "Category Name": "Impossible",
+          "Item Name": "Impossible Dosai",
+          "Gross Sales": 3781.89,
+          "Sold": 261.0,
+          "%Net Sales": "2.81%"
+      },
+      {
+          "Category Name": "Impossible",
+          "Item Name": "Impossible Veg Kothu Parotta",
+          "Gross Sales": 1007.37,
+          "Sold": 63.0,
+          "%Net Sales": "0.75%"
+      },
+      {
+          "Category Name": "House Specials",
+          "Item Name": "Category Total",
+          "Gross Sales": 243.75,
+          "Sold": 17.0,
+          "%Net Sales": "0.18%"
+      },
+      {
+          "Category Name": "House Specials",
+          "Item Name": "Ceylon Parotta",
+          "Gross Sales": 83.94,
+          "Sold": 6.0,
+          "%Net Sales": "0.06%"
+      },
+      {
+          "Category Name": "House Specials",
+          "Item Name": "Chole Bhature",
+          "Gross Sales": 74.95,
+          "Sold": 5.0,
+          "%Net Sales": "0.06%"
+      },
+      {
+          "Category Name": "House Specials",
+          "Item Name": "Chilli Parotta",
+          "Gross Sales": 44.97,
+          "Sold": 3.0,
+          "%Net Sales": "0.03%"
+      },
+      {
+          "Category Name": "House Specials",
+          "Item Name": "Adai Aviyal",
+          "Gross Sales": 25.9,
+          "Sold": 2.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "House Specials",
+          "Item Name": "Appam",
+          "Gross Sales": 13.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "House Specials",
+          "Item Name": "Veg Kothu Parotta",
+          "Gross Sales": 0.0,
+          "Sold": 0.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "From The House Of Steam",
+          "Item Name": "Category Total",
+          "Gross Sales": 1587.9,
+          "Sold": 134.0,
+          "%Net Sales": "1.18%"
+      },
+      {
+          "Category Name": "From The House Of Steam",
+          "Item Name": "Idiyappam (Weekday Dinner and Weekends)",
+          "Gross Sales": 1217.3,
+          "Sold": 94.0,
+          "%Net Sales": "0.91%"
+      },
+      {
+          "Category Name": "From The House Of Steam",
+          "Item Name": "Cocktail Sambar Idli",
+          "Gross Sales": 186.83,
+          "Sold": 17.0,
+          "%Net Sales": "0.14%"
+      },
+      {
+          "Category Name": "From The House Of Steam",
+          "Item Name": "Idli",
+          "Gross Sales": 183.77,
+          "Sold": 23.0,
+          "%Net Sales": "0.14%"
+      },
+      {
+          "Category Name": "Extras",
+          "Item Name": "Papad",
+          "Gross Sales": 14.0,
+          "Sold": 7.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Extras",
+          "Item Name": "Category Total",
+          "Gross Sales": 14.0,
+          "Sold": 7.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Category Total",
+          "Gross Sales": 931.66,
+          "Sold": 70.0,
+          "%Net Sales": "0.69%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Onion Dosai",
+          "Gross Sales": 202.35,
+          "Sold": 15.0,
+          "%Net Sales": "0.15%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Plain Dosa",
+          "Gross Sales": 162.37,
+          "Sold": 13.0,
+          "%Net Sales": "0.12%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Rava Dosai",
+          "Gross Sales": 94.43,
+          "Sold": 7.0,
+          "%Net Sales": "0.07%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Cheese Dosai",
+          "Gross Sales": 77.94,
+          "Sold": 6.0,
+          "%Net Sales": "0.06%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Masala Uthappam",
+          "Gross Sales": 69.75,
+          "Sold": 5.0,
+          "%Net Sales": "0.05%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Masala Dosai",
+          "Gross Sales": 53.96,
+          "Sold": 4.0,
+          "%Net Sales": "0.04%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Kids Special Chocolate Dosai",
+          "Gross Sales": 51.8,
+          "Sold": 4.0,
+          "%Net Sales": "0.04%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Poondu Dosai (Garlic)",
+          "Gross Sales": 51.8,
+          "Sold": 4.0,
+          "%Net Sales": "0.04%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Paneer Masala Dosai",
+          "Gross Sales": 28.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Mysore Masala Dosai",
+          "Gross Sales": 28.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Kal Dosai",
+          "Gross Sales": 24.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Onion Rava Masala Dosa",
+          "Gross Sales": 15.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Paper Roast",
+          "Gross Sales": 14.95,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Onion Uthappam",
+          "Gross Sales": 13.95,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Podi Uthappam",
+          "Gross Sales": 13.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Ghee Roast",
+          "Gross Sales": 13.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Dosai Corner",
+          "Item Name": "Mysore Dosai",
+          "Gross Sales": 12.95,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Desserts",
+          "Item Name": "Category Total",
+          "Gross Sales": 196.14,
+          "Sold": 34.0,
+          "%Net Sales": "0.15%"
+      },
+      {
+          "Category Name": "Desserts",
+          "Item Name": "Rasmalai",
+          "Gross Sales": 172.5,
+          "Sold": 30.0,
+          "%Net Sales": "0.13%"
+      },
+      {
+          "Category Name": "Desserts",
+          "Item Name": "Royal Falooda",
+          "Gross Sales": 12.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Desserts",
+          "Item Name": "Gulab Jamun",
+          "Gross Sales": 5.75,
+          "Sold": 1.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Desserts",
+          "Item Name": "Sweet Paan",
+          "Gross Sales": 4.9,
+          "Sold": 2.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Chaats",
+          "Item Name": "Category Total",
+          "Gross Sales": 55.7,
+          "Sold": 6.0,
+          "%Net Sales": "0.04%"
+      },
+      {
+          "Category Name": "Chaats",
+          "Item Name": "Vegetable Samosa",
+          "Gross Sales": 35.8,
+          "Sold": 4.0,
+          "%Net Sales": "0.03%"
+      },
+      {
+          "Category Name": "Chaats",
+          "Item Name": "Chana Samosa",
+          "Gross Sales": 19.9,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Category Total",
+          "Gross Sales": 1758.8,
+          "Sold": 330.0,
+          "%Net Sales": "1.31%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Masala Tea",
+          "Gross Sales": 465.3,
+          "Sold": 94.0,
+          "%Net Sales": "0.35%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Water Melon Juice",
+          "Gross Sales": 340.55,
+          "Sold": 49.0,
+          "%Net Sales": "0.25%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Green Tea",
+          "Gross Sales": 231.15,
+          "Sold": 67.0,
+          "%Net Sales": "0.17%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Madras Filter Coffee",
+          "Gross Sales": 178.2,
+          "Sold": 36.0,
+          "%Net Sales": "0.13%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Chikku Milkshake",
+          "Gross Sales": 149.8,
+          "Sold": 20.0,
+          "%Net Sales": "0.11%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Strawberry Milkshake",
+          "Gross Sales": 112.35,
+          "Sold": 15.0,
+          "%Net Sales": "0.08%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Butter Milk",
+          "Gross Sales": 103.95,
+          "Sold": 21.0,
+          "%Net Sales": "0.08%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Rose Milk",
+          "Gross Sales": 78.0,
+          "Sold": 12.0,
+          "%Net Sales": "0.06%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Avacado Milkshake",
+          "Gross Sales": 71.55,
+          "Sold": 9.0,
+          "%Net Sales": "0.05%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Mango Lassi",
+          "Gross Sales": 19.5,
+          "Sold": 3.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Bottled Water",
+          "Gross Sales": 6.0,
+          "Sold": 3.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Beverages",
+          "Item Name": "Soda",
+          "Gross Sales": 2.45,
+          "Sold": 1.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Category Total",
+          "Gross Sales": 2245.27,
+          "Sold": 207.0,
+          "%Net Sales": "1.67%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Kuzhi Paniyaram",
+          "Gross Sales": 899.28,
+          "Sold": 72.0,
+          "%Net Sales": "0.67%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Medhu Vadai",
+          "Gross Sales": 203.76,
+          "Sold": 24.0,
+          "%Net Sales": "0.15%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Sambar Vadai",
+          "Gross Sales": 151.84,
+          "Sold": 16.0,
+          "%Net Sales": "0.11%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Rasam Vadai",
+          "Gross Sales": 113.88,
+          "Sold": 12.0,
+          "%Net Sales": "0.08%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Mushroom Pepper Fries",
+          "Gross Sales": 112.41,
+          "Sold": 9.0,
+          "%Net Sales": "0.08%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Chowk Ki Tikki",
+          "Gross Sales": 95.6,
+          "Sold": 8.0,
+          "%Net Sales": "0.07%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Masala Vadai",
+          "Gross Sales": 80.91,
+          "Sold": 9.0,
+          "%Net Sales": "0.06%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "French Fries",
+          "Gross Sales": 80.55,
+          "Sold": 9.0,
+          "%Net Sales": "0.06%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Vaazhaipoo Vadai",
+          "Gross Sales": 79.92,
+          "Sold": 8.0,
+          "%Net Sales": "0.06%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Dahi Vadai(Only On Fri / Weekend)",
+          "Gross Sales": 66.43,
+          "Sold": 7.0,
+          "%Net Sales": "0.05%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Onion Pakoda",
+          "Gross Sales": 62.93,
+          "Sold": 7.0,
+          "%Net Sales": "0.05%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Paneer Tikka",
+          "Gross Sales": 53.96,
+          "Sold": 4.0,
+          "%Net Sales": "0.04%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Babycorn Pepper Fries",
+          "Gross Sales": 49.96,
+          "Sold": 4.0,
+          "%Net Sales": "0.04%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Paneer Pepper Fries",
+          "Gross Sales": 26.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Paneer 65",
+          "Gross Sales": 26.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Aloo Bonda",
+          "Gross Sales": 26.97,
+          "Sold": 3.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Cauliflower 65",
+          "Gross Sales": 24.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Keerai Vadai",
+          "Gross Sales": 17.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Bonda",
+          "Gross Sales": 17.0,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Paneer Chilli Fries",
+          "Gross Sales": 13.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Babycorn Chilli Fries",
+          "Gross Sales": 12.49,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Chilli Bajji",
+          "Gross Sales": 8.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Plantain Bajji",
+          "Gross Sales": 8.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Appetizers",
+          "Item Name": "Mixed Veg. Pakoda",
+          "Gross Sales": 8.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Accompaniments",
+          "Item Name": "Category Total",
+          "Gross Sales": 27.87,
+          "Sold": 7.0,
+          "%Net Sales": "0.02%"
+      },
+      {
+          "Category Name": "Accompaniments",
+          "Item Name": "Aloo Kulcha",
+          "Gross Sales": 9.9,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Accompaniments",
+          "Item Name": "Garlic Naan",
+          "Gross Sales": 7.98,
+          "Sold": 2.0,
+          "%Net Sales": "0.01%"
+      },
+      {
+          "Category Name": "Accompaniments",
+          "Item Name": "White Rice",
+          "Gross Sales": 6.0,
+          "Sold": 2.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "Accompaniments",
+          "Item Name": "Parotta",
+          "Gross Sales": 3.99,
+          "Sold": 1.0,
+          "%Net Sales": "0.00%"
+      },
+      {
+          "Category Name": "A2B Combos",
+          "Item Name": "Category Total",
+          "Gross Sales": 278.53,
+          "Sold": 19.0,
+          "%Net Sales": "0.21%"
+      },
+      {
+          "Category Name": "A2B Combos",
+          "Item Name": "Mini Tiffin",
+          "Gross Sales": 173.88,
+          "Sold": 12.0,
+          "%Net Sales": "0.13%"
+      },
+      {
+          "Category Name": "A2B Combos",
+          "Item Name": "South Indian Rush Lunch",
+          "Gross Sales": 104.65,
+          "Sold": 7.0,
+          "%Net Sales": "0.08%"
+      }
+  ]
+}

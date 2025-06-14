@@ -1,0 +1,112 @@
+{
+  "Revenue Class": [
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "GRIDDLE",
+              "Items sold": 4316.0,
+              "Total Sales": 67241.57
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "FOOD",
+              "Items sold": 955.0,
+              "Total Sales": 12970.59
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "Pantry, PANTRY",
+              "Items sold": 659.0,
+              "Total Sales": 4956.9
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "Chinese, FOOD",
+              "Items sold": 54.0,
+              "Total Sales": 792.84
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "Pantry",
+              "Items sold": 92.0,
+              "Total Sales": 654.64
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "GRIDDLE, South Indian",
+              "Items sold": 28.0,
+              "Total Sales": 354.21
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "A La Carte, FOOD",
+              "Items sold": 22.0,
+              "Total Sales": 276.9
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "Sweets & Snacks",
+              "Items sold": 24.0,
+              "Total Sales": 208.96
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "Pantry, Sweets & Snacks",
+              "Items sold": 34.0,
+              "Total Sales": 193.07
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "FOOD, South Indian",
+              "Items sold": 17.0,
+              "Total Sales": 180.84
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "A La Carte, GRIDDLE",
+              "Items sold": 4.0,
+              "Total Sales": 17.88
+          }
+      },
+      {
+          "Location ID": "0abe0c6e-88b0-45a3-921c-bb9662eac0b8",
+          "date": "11-13-2023",
+          "data": {
+              "Revenue Class": "A La Carte, Pantry",
+              "Items sold": 1.0,
+              "Total Sales": 15.99
+          }
+      }
+  ]
+}
